@@ -21,6 +21,6 @@ def main():
             lenght_generated, lenght_goal = 0, 0
             new_list = []
         count += 1
-    print(count)
+    print("Attempts: ", count)
 
 main()
